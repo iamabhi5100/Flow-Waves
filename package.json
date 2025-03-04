@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "flowwaves",
   "private": true,
   "scripts": {
     "build": "turbo run build",
